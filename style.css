@@ -22,4 +22,18 @@
     color: white;
 }
 
+.button-first {
+    background-color: lightblue;
+    color:black;
+}
+
+.button-second {
+    background-color: lightgoldenrodyellow;
+    color:black;
+}
+
+.button-third {
+    background-color: lightcoral;
+    color:black;
+}
 

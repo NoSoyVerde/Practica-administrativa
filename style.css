@@ -1,0 +1,25 @@
+.header{
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.main-table table {
+    border: 1px solid black; 
+    border-collapse: collapse;
+    margin: 20px auto; 
+}
+
+.main-table table th,
+.main-table table td {
+    padding: 5px;
+    text-align: center;
+}
+
+.main-table table th {
+    background-color: black;
+    color: white;
+}
+
+
